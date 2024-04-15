@@ -1,0 +1,11 @@
+.body{
+    background-color: wheat;
+}
+.h1{
+    color: blue;
+}
+h2{
+    color: red;
+}
+table { border: #808080 1px solid; }
+td, th { border: #8e8e8e 1px solid; padding: 0.5em; }
